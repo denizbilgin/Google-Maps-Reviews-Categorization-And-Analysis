@@ -45,7 +45,7 @@ Riviera,Yahya Nawar,"Nice view, good staff, clean place and nice atmosphere.",da
 Riviera,Nirmal Narayan,Nice food and good service; located just near the beach as well.,dataset/indoor_atmosphere/riviera_nirmal_narayan.png,5,indoor_atmosphere
 Sakip Usta Gaziantep,Gamze Aciogli,It was very nice to be greeted with a smile when we first entered; we went with my wife; the services are very fast; the empty services are removed immediately; the washbasins were hygienic and clean; and I would recommend a very reasonable place.,dataset/taste/sakip_usta_gaziantep_gamze_aciogli.png,4,taste
 Sakip Usta Gaziantep,Murat Erdemir,Kebabs are good; trotters are good; desserts are good. Actually; the decor part of the atmosphere is good. Only a lot of noise comes from the kitchen part. Employees are smiling.,dataset/outdoor_atmosphere/sakip_usta_gaziantep_murat_erdemir.png,4,outdoor_atmosphere
-Sakip Usta Gaziantep,Berat Türk,If you come to Antep; sit down and taste the Beyran soup; served plain and with garlic.,dataset/indoor_atmosphere/sakip_usta_gaziantep_berat_türk.png,5,indoor_atmosphere
+Sakip Usta Gaziantep,Berat Türk,If you come to Antep; sit down and taste the Beyran soup; served plain and with garlic.,dataset/indoor_atmosphere/sakip_usta_gaziantep_berat_turk.png,5,indoor_atmosphere
 Sakip Usta Gaziantep,Agah Beyoglu,I asked for garlic; but I had a hard time getting the taste of the meat from the garlic flavor. I'll try again with little or no garlic. Quite satisfying. I like the taste too; you should definitely try it.,dataset/taste/sakip_usta_gaziantep_agah_beyoglu.png,4,taste
 Sakip Usta Gaziantep,Serap Keskin,Taste was amazing! Price was not high.,dataset/menu/sakip_usta_gaziantep_serap_keskin.png,4,menu
 Sakip Usta Gaziantep,Ahmet Coban,When I ate it in the past; it tasted very good; I think the chef has changed. The atmosphere was average.,dataset/indoor_atmosphere/sakip_usta_gaziantep_ahmet_coban.png,2,indoor_atmosphere
@@ -506,7 +506,7 @@ Kebabci Halil Usta,Onder Sonmez,4 people mixed menu with their own salad; 750 TL
 Kebabci Halil Usta,Jale Serin,We ate küşleme; it was amazing. But as you can see; really really expensive.,dataset/menu/kebabci_halil_usta_jale_serin.png,4,menu
 Kebabci Halil Usta,Olcay Seker,We came from out of the town to try their meat. We waited in line for a while; but that's okay. It was an amazing experience. I recommend it to everyone.,dataset/indoor_atmosphere/kebabci_halil_usta_olcay_seker.png,5,indoor_atmosphere
 Abidin Tantuni,Ugurcan Arbaz,It was too oily and the place had problems with cleanliness.,dataset/taste/abidin_tantuni_ugurcan_arbaz.png,2,taste
-Abidin Tantuni,Büsra Uzun,It was too spicy on my first try; but after a few bites I got used to it. The taste is really good; I like it.,dataset/outdoor_atmosphere/abidin_tantuni_büsra_uzun.png,4,outdoor_atmosphere
+Abidin Tantuni,Busra Uzun,It was too spicy on my first try; but after a few bites I got used to it. The taste is really good; I like it.,dataset/outdoor_atmosphere/abidin_tantuni_busra_uzun.png,4,outdoor_atmosphere
 Abidin Tantuni,Nezahat Arslan,it tasted so good that I even ordered and ate the second one!,dataset/indoor_atmosphere/abidin_tantuni_nezahat_arslan.png,5,indoor_atmosphere
 Abidin Tantuni,Simge Sahin,The taste is good but not satisfying.,dataset/menu/abidin_tantuni_simge_sahin.png,4,menu
 Abidin Tantuni,Ali Simsek,Deliciousss!,dataset/taste/abidin_tantuni_ali_simsek.png,4,taste

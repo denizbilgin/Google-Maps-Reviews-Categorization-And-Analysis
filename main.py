@@ -218,6 +218,10 @@ if __name__ == '__main__':
     print(rating_categories.value_counts())
     print("------------------------------------")
 
+    plt.hist(rating_categories)
+    plt.title("Histogram of Rating Categories")
+    plt.show()
+
     # Label Encoding
     l_encoder = LabelEncoder()
     rating_categories = l_encoder.fit_transform(rating_categories)
@@ -325,6 +329,7 @@ if __name__ == '__main__':
 
     # Making predictions
     Y_pred = model.predict(X_new)
+    Y_pred = np.round(Y_pred, 2)
     print("Predictions of the model on new reviews:")
     print(Y_pred)
     print("------------------------------------")
